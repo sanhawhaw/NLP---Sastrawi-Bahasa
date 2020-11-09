@@ -1,0 +1,9 @@
+# Menghapus angka
+
+import re # impor modul regular expression
+kalimat = "Di antara 72 anggota yang hadir, 52 orang setuju, 15 orang tidak setuju, dan 5 orang abstain."
+hasil = re.sub(r"\d+", "", kalimat)
+print(hasil)
+
+# # ouput
+# # Di antara  anggota yang hadir,  orang setuju,  orang tidak setuju, dan  orang abstain.
