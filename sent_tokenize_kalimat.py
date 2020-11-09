@@ -7,4 +7,4 @@ kalimat = "makan nasi padang adalah panggilan jiwaku untuk bertahan dari kelapar
 tokens = nltk.tokenize.sent_tokenize(kalimat)
 print(tokens)
 # # ouput
-# # ['Andi kerap melakukan transaksi rutin secara daring atau online.', 'Menurut Andi belanja online lebih praktis & murah.']
+# # ['makan nasi padang adalah panggilan jiwaku untuk bertahan dari kelaparan.', 'Ketika kesedihan melanda negeri dongeng.']
