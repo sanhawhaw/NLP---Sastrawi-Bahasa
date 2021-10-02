@@ -1,4 +1,4 @@
-# NLTK---Sastrawi
+# NLP --- Sastrawi Bahasa Indonesia
 NLTK with Indonesian Sastrawi library
 
 
